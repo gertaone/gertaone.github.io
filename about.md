@@ -23,8 +23,6 @@ Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects o
 <br>
 <br>
 CH Trading believes that the only constant is the process of change … by getting better every single day.
-
-<br>
 <br>
 Feel free to contact us: +4917632811289
 	

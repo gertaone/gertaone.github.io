@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
 
 <div>
-Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
+Cevi Herdian Trading. <span class="changing"></span> Enthusiast
 <br>
 <br>
 Practiced Data-Driven Strategist with experience in extraction,
@@ -114,7 +114,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data Analyst", "Visual Analytics", "Business Intelligence", " Artificial Intelligence", "Machine Learning","Data Science"],
+        strings: ["Data-Driven Research Trading"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,

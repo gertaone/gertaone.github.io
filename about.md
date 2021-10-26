@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/" style="padding:25px">
+<img class="col one right" src="/img/chtrading.png" style="padding:25px">
 
 <div>
-Cevi Herdian Trading. <span class="changing"></span>
+Cevi Herdian Trading. 
+<br>
+<span class="changing"></span>
 <br>
 <br>
 <!--Practiced Data-Driven Strategist with experience in extraction,

@@ -21,8 +21,8 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 <br>
 Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
 <br>
-<br>	
-Whether we pioneer new market frontiers, expand our liquidity on existing ones, or acknowledge that certain strategies require wholesale modification, CH Trading believes that the only constant is the process of change … by getting better every single day.
+<br>
+CH Trading believes that the only constant is the process of change … by getting better every single day.
 
 <br>
 <br>

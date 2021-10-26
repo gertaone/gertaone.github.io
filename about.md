@@ -34,46 +34,7 @@ I have a skill and experience for most of the data-science steps: data pre-proce
 	
 <br>
 <br>
-Extras: my key fields of interest
-<br>
-#Statistics: descriptive, inferential, and predictive
-<br>
-#Data model: starschema, snowflakes, relational data
-<br>
-#KPI (Key Performances Indicators)
-<br>
-#Ad hoc reporting
-<br>
-#Data Mining
-<br>
-#Data quality
-<br>
-#EDA (Exploratory Data Analysis)
-<br>
-#Data Science
-<br>
-#Kaggle 
-<br>
-#Scrum & Kanban project management (Trello)
-<br>
-#Confluenci Wiki Documentation
-<br>
-<br>
-Tools:
-<br>
-#SSBI (Self Service Business Intelligence): Power BI & Tableau
-<br>
-#Microsoft Excel & VBA
-<br>
-#Self Service ETL (Extract, Transformation, Loaden): Power Query, M Programming, Power Pivot, DAX (Data Analyst Expression)
-<br>
-#SQL
-<br>
-#R, R Notebook, R markdown, R Shiny
-<br>
-#Python, Anaconda, Jupyter Notebook
-<br>
-#SAP Business Object Web Intelligence -->
+
 
 <!--  <a class="page-link" target="_blank" href="{{ '/JasminRubinovitzCV_2017.pdf' | prepend: site.baseurl }}">Resume</a> -->
 </div>

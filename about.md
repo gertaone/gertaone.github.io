@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/chtrading.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading(1).png" style="padding:25px">
 
 <div>
 Cevi Herdian Trading. 
@@ -26,6 +26,8 @@ CH Trading believes that the only constant is the process of change … by getti
 
 <br>
 <br>
+Feel free to contact us: +4917632811289
+	
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).-->
 <br>
 <br>

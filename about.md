@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/chtrading(1).png" style="padding:25px">
+<img class="col one right" src="/img/chtrading (1).png" style="padding:25px">
 
 <div>
 Cevi Herdian Trading. 
@@ -23,7 +23,6 @@ Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects o
 <br>
 <br>
 CH Trading believes that the only constant is the process of change … by getting better every single day.
-<br>
 <br>
 Feel free to contact us: +4917632811289
 	

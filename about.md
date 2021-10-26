@@ -95,7 +95,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven Research Trading"],
+        strings: ["Data-Driven Research Trading."],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,

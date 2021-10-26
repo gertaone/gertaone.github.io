@@ -29,30 +29,9 @@ I have a skill and experience for most of the data-science steps: data pre-proce
 <!--I'm interested in exploring the new ways or technology for better insight from data.-->
 <br>
 	
-	 <li>
-    <a id="icon" href="https://itsmecevi.github.io/curriculum-vitae/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> CV-ENG</a>
-          </li>
-	  
-	   <li>
-            <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
-	    CV-DE</a>
-          </li>
-	  
-	  <li>
-            <a id="icon" href="https://itsmecevi.github.io/biodata-cv/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
-	    CV-IND</a>
-          </li>
 	
-	 <li>
-            <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
-          </li>
-         <!-- <li>
-            <a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
-          </li> -->
-           <!-- <li>
-            <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i></a>
-          </li> -->
-<!--
+	
+	
 <br>
 <br>
 Extras: my key fields of interest

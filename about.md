@@ -19,7 +19,10 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-I have a skill and experience for most of the data-science steps: data pre-processing (data cleaning), application of statistical methods, data visualization and results communication.
+Since 2020, our mission has been to **adapt**, **innovate** and **evolve**. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
+<br>
+<br>	
+Whether we pioneer new market frontiers, expand our liquidity on existing ones, or acknowledge that certain strategies require wholesale modification, CH Trading believes that the only constant is the process of change … by getting better every single day.
 
 <br>
 <br>

@@ -20,13 +20,13 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
 Our mission has been to harness the transformative power of artificial intelligence in market research. Through our three foundational principles, we're reshaping the future of trading intelligence:
-
+<br>
 - ADAPT
-
+<br>
 - INNOVATE
-
+<br>
 - EVOLVE
-
+<br>
 
 These principles form more than just a roadmap - they represent our commitment to AI excellence in market intelligence. Every data point we analyze, every pattern we identify, and every insight we generate is guided by this triumvirate of progress.
 

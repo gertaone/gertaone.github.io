@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/chtrading (1).png" style="padding:25px">
+<img class="col one right" src="/img/gmr-photoaidcom-cropped.png" style="padding:25px">
 
 <div>
 Gertaone Market Research. 

@@ -23,6 +23,7 @@ Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects o
 <br>
 <br>
 Gertaone Market Research believes that the only constant is the process of change. 
+<br>
 By getting better every single day.
 <br>
 Feel free to contact us: gertaone@gmail.com

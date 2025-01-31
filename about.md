@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/gmr-photoaidcom-cropped.png" style="padding:25px">
 
 <div>
-Gertaone Market Research. 
+Gertaone Derivatives Research. 
 <br>
 <span class="changing"></span>
 <br>

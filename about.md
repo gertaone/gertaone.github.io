@@ -22,9 +22,10 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
 <br>
 <br>
-CH Trading believes that the only constant is the process of change … by getting better every single day.
+Gertaone Market Research believes that the only constant is the process of change. 
+By getting better every single day.
 <br>
-Feel free to contact us: +4917632811289
+Feel free to contact us: gertaone@gmail.com
 	
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).-->
 <br>
@@ -59,7 +60,7 @@ Feel free to contact us: +4917632811289
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven Research Trading."],
+        strings: ["Systematic Algo Trading"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,

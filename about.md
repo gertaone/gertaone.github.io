@@ -61,7 +61,7 @@ Feel free to contact us: gertaone@gmail.com
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Systematic Algo Trading"],
+        strings: ["AI-Driven Market Intelligence"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,

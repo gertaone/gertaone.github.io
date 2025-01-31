@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/gmr-photoaidcom-cropped.png" style="padding:25px">
 
 <div>
-Gertaone Market Research. 
+Gertaone Market Research...
 <br>
 <span class="changing"></span>
 <br>
@@ -27,6 +27,9 @@ These principles form more than just a roadmap - they represent our commitment t
 
 <br>
 <br>
+🏢 Team: 
+* Cevi Herdian: <a href="https://itsmecevi.github.io/workshop/">Linkedin</a>
+* Rama Pramasandy <a href="https://itsmecevi.github.io/workshop/">Linkedin</a>
 <!--Gertaone Market Research believes that the only constant is the process of change. -->
 <br>
 <!--By getting better every single day.-->

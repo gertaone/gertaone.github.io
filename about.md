@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/chtrading (1).png" style="padding:25px">
 
 <div>
-Cevi Herdian Trading. 
+Gertaone Market Research. 
 <br>
 <span class="changing"></span>
 <br>

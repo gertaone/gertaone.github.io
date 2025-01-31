@@ -19,12 +19,22 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
+Our mission has been to harness the transformative power of artificial intelligence in market research. Through our three foundational principles, we're reshaping the future of trading intelligence:
+
+- ADAPT
+
+- INNOVATE
+
+- EVOLVE
+
+
+These principles form more than just a roadmap - they represent our commitment to AI excellence in market intelligence. Every data point we analyze, every pattern we identify, and every insight we generate is guided by this triumvirate of progress.
+
 <br>
 <br>
-Gertaone Market Research believes that the only constant is the process of change. 
+<!--Gertaone Market Research believes that the only constant is the process of change. -->
 <br>
-By getting better every single day.
+<!--By getting better every single day.-->
 <br>
 Feel free to contact us: gertaone@gmail.com
 	

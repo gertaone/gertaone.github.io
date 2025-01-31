@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/gmr-photoaidcom-cropped.png" style="padding:25px">
 
 <div>
-Gertaone Derivatives Research. 
+Gertaone Market Research. 
 <br>
 <span class="changing"></span>
 <br>
@@ -22,7 +22,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 Our mission has been to harness the transformative power of artificial intelligence in market research. Through our three foundational principles ADAPT, INNOVATE, EVOLVE, we're reshaping the future of trading intelligence.
 
 <br>
-
+<br>
 These principles form more than just a roadmap - they represent our commitment to AI excellence in market intelligence. Every data point we analyze, every pattern we identify, and every insight we generate is guided by this triumvirate of progress.
 
 <br>
